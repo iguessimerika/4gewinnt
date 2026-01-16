@@ -1,3 +1,5 @@
+import tui, game
+
 def main():
     pass
 
