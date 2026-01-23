@@ -15,7 +15,7 @@ Testfälle:
     - Erwartetes Ergebnis:
         - Das System erkennt vier senkrecht übereinanderliegende Spielsteine von Spieler 1
         - Das Spiel wird beendet
-        - Es erscheint die Meldung: „Spieler 1 hat gewonnen!“
+        - Es erscheint die Meldung: "Spieler 1 hat gewonnen!"
 
 - Horizontal gewonnen?
     - Testfall-ID: VG-002
@@ -32,7 +32,7 @@ Testfälle:
     - Erwartetes Ergebnis:
         - Das System erkennt vier waagerecht angeordnete Spielsteine von Spieler 1
         - Das Spiel wird beendet
-        - Es erscheint die Meldung: „Spieler 1 hat gewonnen!“
+        - Es erscheint die Meldung: "Spieler 1 hat gewonnen!"
 
 - Diagonal gewonnen?
     - Testfall-ID: VG-003
@@ -53,7 +53,7 @@ Testfälle:
     - Erwartetes Ergebnis:
         - Das System erkennt vier diagonal angeordnete Spielsteine von Spieler 1
         - Das Spiel wird beendet
-        - Es erscheint die Meldung: „Spieler 1 hat gewonnen!“
+        - Es erscheint die Meldung: "Spieler 1 hat gewonnen!"
         
 - Unentschieden?
     - Testfall-ID: VG-004
@@ -71,4 +71,4 @@ Testfälle:
     - Erwartetes Ergebnis:
         - Das System erkennt, dass keine weiteren Züge möglich sind
         - Das Spiel wird beendet
-        - Es erscheint die Meldung: Unentschieden! Kein Spieler hat gewonnen!“
+        - Es erscheint die Meldung: "Unentschieden! Kein Spieler hat gewonnen!"
