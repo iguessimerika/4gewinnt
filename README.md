@@ -71,4 +71,4 @@ Testfälle:
     - Erwartetes Ergebnis:
         - Das System erkennt, dass keine weiteren Züge möglich sind
         - Das Spiel wird beendet
-        - Es erscheint die Meldung: „Spieler 1 hat gewonnen!“
+        - Es erscheint die Meldung: Unentschieden! Kein Spieler hat gewonnen!“
